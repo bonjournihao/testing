@@ -2,5 +2,5 @@
 
 int main()
 {
-    std::cout << "main function lalala version 5\n";
+    std::cout << "main function lalala version 6\n";
 }
